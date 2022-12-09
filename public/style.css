@@ -1,0 +1,93 @@
+.section1{
+    position:relative;
+    text-align:center;
+    color: lightcoral;
+}
+.section1 img{
+    width: 100%;
+    height: 800px;
+}
+.image1text{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top:50%;
+    left:50%;
+    font-size: xxx-large;
+    font-weight:bolder;
+}
+
+
+.section2{
+    background-color:burlywood;
+    padding:3rem;
+    padding-bottom:1rem;
+    text-align: center;
+    color: papayawhip;
+}
+.section2 h1{
+    font-size: xxx-large;
+    font-family: fantasy;
+}
+.section2 p1{
+    font-size:x-large;
+    color:linen;
+}
+.section2 .container{
+border: 4px solid yellow;
+padding: 12px;
+width:fit-content;
+margin: auto;
+}
+.section2 .container img{
+    height:auto;
+    width: 65rem;
+}
+
+.section3{
+    background-color:red;
+    padding: 3rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+.section3 h1{
+    font-size: xxx-large;
+    font-family: fantasy;
+}
+.section3 p{
+    font-size: x-large;
+}
+.section3 .container{
+    border: 4px solid wheat;
+    padding: 10px;
+    width: fit-content;
+    margin: auto;
+}
+.section3 .container img{
+    height: auto;
+    width: 65rem;
+}
+
+.section4{
+    background-color:sandybrown;
+    padding: 3rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    color:seashell;
+}
+.section4 h1{
+    font-size: xxx-large;
+    font-family: fantasy;
+}
+.section4 p{
+    font-size: x-large;
+}
+.section4 .container{
+    border: 4px solid whitesmoke;
+    padding: 10px;
+    width: fit-content;
+    margin: auto;
+}
+.section4 .container img{
+    height: auto;
+    width: 65rem;
+}
